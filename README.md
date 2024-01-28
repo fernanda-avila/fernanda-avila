@@ -18,3 +18,5 @@
 
 
 **Que a linha do código esteja sempre ao seu favor!** 🚀
+
+![Snake animation](https://github.com/fernanda-avila/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)

@@ -1,16 +1,22 @@
-### Hi there 👋
+# 👋 Olá, eu sou a Fernanda!
 
-<!--
-**fernanda-avila/fernanda-avila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre Mim
+- 🎉 26 anos e apaixonada por tecnologia.
+- 🐱 Amante de gatos e, claro, de código!
+- 🚀 Estudando Front-end e UX Design para criar experiências incríveis.
 
-Here are some ideas to get you started:
+## Tecnologias e Ferramentas
+- 💻 HTML, CSS, JavaScript;
+- 🎨 UI/UX Design;
+- 🚀 Aprendendo sempre mais para ficar atualizada no mundo da tecnologia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interesses Pessoais
+- 🌌 Fascinada pelo espaço;
+- ⭐️ Devota de Star Wars. Que a Força esteja com o meu código!
+
+
+## Vamos Conectar!
+- 💼 Dê uma olhada no meu [LinkedIn]([www.linkedin.com/in/fernanda-avila-batista/).
+
+
+**Que a linha do código esteja sempre ao seu favor!** 🚀

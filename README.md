@@ -1,7 +1,6 @@
 # 👋 Olá, eu sou a Fernanda!
 
 ## Sobre Mim
-- 🎉 26 anos e apaixonada por tecnologia.
 - 🐱 Amante de gatos e, claro, de código!
 - 🚀 Estudando Front-end e UX Design para criar experiências incríveis.
 

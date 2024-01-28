@@ -2,13 +2,12 @@
 
 ## Sobre Mim
 - 🐱 Amante de gatos e, claro, de código!
-- 🚀 Estudando Front-end e UX Design para criar experiências incríveis.
+- 🚀 Estudando Front-end e UX Design.
 
 ## Tecnologias e Ferramentas
 - 💻 HTML, CSS, JavaScript;
 - 🎨 UI/UX Design;
-- 🚀 Aprendendo sempre mais para ficar atualizada no mundo da tecnologia.
-
+  
 ## Interesses Pessoais
 - 🌌 Fascinada pelo espaço;
 - ⭐️ Devota de Star Wars. Que a Força esteja com o meu código!

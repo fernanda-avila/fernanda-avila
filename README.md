@@ -13,7 +13,7 @@
 - ⭐️ Devota de Star Wars. Que a Força esteja com o meu código!
 
 
-## Vamos Conectar!
+## Vamos nos Conectar!
 - 💼 Dê uma olhada no meu [LinkedIn]([www.linkedin.com/in/fernanda-avila-batista/).
 
 

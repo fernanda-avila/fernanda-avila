@@ -14,7 +14,7 @@
 
 
 ## Vamos nos Conectar?
-- 💼 Dá uma olhadinha no meu [LinkedIn]([www.linkedin.com/in/fernanda-avila-batista/).
+- 💼 Dá uma olhadinha no meu [LinkedIn](www.linkedin.com/in/fernanda-avila-batista/).
 
 
 **Que a linha do código esteja sempre ao seu favor!** 🚀

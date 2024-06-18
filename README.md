@@ -5,8 +5,8 @@
 - 🚀 Estudando Front-end e UX Design.
 
 ## Tecnologias e Ferramentas
-- 💻 HTML, CSS, JavaScript;
-- 🎨 UI/UX Design;
+- 💻 HTML, CSS, JavaScript, Bootstrap, JSX, React, Angular...
+- 🎨 UI/UX Design, Figma, User Research, Prototype...
   
 ## Interesses Pessoais
 - 🌌 Fascinada pelo espaço;

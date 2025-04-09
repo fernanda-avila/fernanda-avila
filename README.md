@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou a Fernanda!
+# Olá, eu sou a Fernanda! 🖖🏻
 
 ## Sobre Mim
 - 🐱 Amante de gatos e, claro, de código!

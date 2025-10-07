@@ -13,37 +13,37 @@ Tenho experiência prática com desenvolvimento full stack e já participei de p
 
 <p align="center">
   
-  🧠 **Linguagens:**  
+  ### 🧠 **Linguagens:**  
   <img src="https://skillicons.dev/icons?i=ts,js,python,java,bash" /><br/>
   TypeScript • JavaScript • Python • Java • Bash
   
   <br/><br/>
   
-  ⚛️ **Frontend:**  
+  ### ⚛️ **Frontend:**  
   <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,styledcomponents,figma" /><br/>
   React • Next.js • Vite • Tailwind CSS • Styled Components • Figma
   
   <br/><br/>
   
-  ⚙️ **Backend:**  
+  ### ⚙️ **Backend:**  
   <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,prisma" /><br/>
   Node.js • Express • NestJS • Prisma ORM
   
   <br/><br/>
   
-  🗄️ **Banco de Dados:**  
+  ### 🗄️ **Banco de Dados:**  
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" /><br/>
   MySQL • PostgreSQL • MongoDB
   
   <br/><br/>
   
-  ☁️ **Cloud e DevOps:**  
+  ### ☁️ **Cloud e DevOps:**  
   <img src="https://skillicons.dev/icons?i=aws,docker,ubuntu,git,github" /><br/>
   AWS • Docker • Ubuntu • Git • GitHub
   
   <br/><br/>
   
-  📊 **Dados e Machine Learning:**  
+  ### 📊 **Dados e Machine Learning:**  
   <img height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas" />
   <img height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title="NumPy" />
   <img height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" title="Apache Spark" />

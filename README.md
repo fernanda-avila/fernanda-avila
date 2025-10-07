@@ -49,7 +49,7 @@ Tenho experiência prática com desenvolvimento full stack e já participei de p
   
 </p>
 
-
+---
 
 ### 📌 No Momento
 

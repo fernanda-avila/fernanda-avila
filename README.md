@@ -12,8 +12,9 @@ Tenho experiência prática com desenvolvimento full stack e já participei de p
 ### 🛠 Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,nestjs,mysql,python,prisma,docker,aws,git,github,figma,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,express,nestjs,python,pandas,pytorch,postgres,mongodb,mysql,prisma,docker,aws,git,github,figma,tailwind,styledcomponents,vite,ubuntu" />
 </p>
+>
 
 ### 📌 No Momento
 

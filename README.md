@@ -12,9 +12,35 @@ Tenho experiência prática com desenvolvimento full stack e já participei de p
 ### 🛠 Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,express,nestjs,python,pandas,pytorch,postgres,mongodb,mysql,prisma,docker,aws,git,github,figma,tailwind,styledcomponents,vite,ubuntu" />
+  <!--  Linguagens -->
+  <img src="https://skillicons.dev/icons?i=ts,js,python,java,bash" />
+  <br/>
+  
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,styledcomponents,figma" />
+  <br/>
+
+  <!-- Backend -->
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,prisma" />
+  <br/>
+
+  <!-- Banco de Dados -->
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+  <br/>
+
+  <!-- Cloud e DevOps -->
+  <img src="https://skillicons.dev/icons?i=aws,docker,ubuntu,git,github" />
+  <br/>
+
+  <!-- Dados e Machine Learning -->
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" title="Apache Spark" />
+  <img height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas" />
+  <img height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title="NumPy" />
+  <img height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" title="PyTorch" />
+  <img height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" title="Gemini / Google Cloud" />
 </p>
->
+
 
 ### 📌 No Momento
 

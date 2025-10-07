@@ -12,7 +12,7 @@ Tenho experiência prática com desenvolvimento full stack e já participei de p
 ### 🛠 Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,java,bash,react,nextjs,vite,tailwind,styledcomponents,figma,nodejs,express,nestjs,prisma,mysql,postgres,mongodb,aws,docker,ubuntu,git,github" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,java,bash,react,nextjs,vite,tailwind,styledcomponents,figma,nodejs,express,nestjs,prisma,mysql,postgres,mongodb,aws,docker,ubuntu,git,github" /><br/>
   <img height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas" /> 
   <img height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title="NumPy" /> 
   <img height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" title="Apache Spark" /> 

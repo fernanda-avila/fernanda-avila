@@ -2,7 +2,7 @@
 
 ## 👩‍💻 Sobre mim
 
-Tenho 27 anos, moro em Pelotas (RS) e sou estudante de Computação pelo IFSul e Desenvolvimento de Sistemas pelo Senac RS.  
+Sou estudante de Computação pelo IFSul e Desenvolvimento de Sistemas pelo Senac RS.  
 Atualmente, sou estagiária na Compass UOL na área de AWS Cloud Data Engineering.
 
 Tenho experiência prática com desenvolvimento full stack e já participei de projetos completos, do Figma ao deploy, priorizando código limpo, responsividade e acessibilidade. Também já trabalhei com autenticação, consumo de APIs REST, banco de dados e organização de rotas e controllers.

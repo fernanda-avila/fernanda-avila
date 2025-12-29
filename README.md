@@ -30,8 +30,3 @@ Tenho experiência prática com desenvolvimento full stack e já participei de p
 - 🏢 Estagiária na Compass UOL  
 - 📚 Cursando Computação (IFSul) e Desenvolvimento de Sistemas (UniSenac)  
 
-#
-<div align="center">
-<img width="406px" height="190px" src="https://github-readme-stats.vercel.app/api?username=fernanda-avila&show_icons=true&theme=dark">
-<img width="365px" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernanda-avila&hide_progress=true&theme=dark">
-</div>
